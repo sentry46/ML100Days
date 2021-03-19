@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 12 12:07:41 2021
 
-@author: Joshua
+@author: 陳聖哲
 """
 
 import tensorflow as tf
